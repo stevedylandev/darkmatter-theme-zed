@@ -1,0 +1,9 @@
+id = "darkmatter"
+name = "darkmatter"
+version = "0.0.1"
+schema_version = 1
+authors = [
+    "Steve Simkins <stevedsimkins@gmail.com>",
+]
+description = "Darkmatter theme based on Base16 Black Metal Bathory"
+repository = "https://github.com/stevedylandev/darkmatter-zed"

@@ -1,4 +1,4 @@
-# Darkmatter Zed
+# Darkmatter Theme
 
 ![cover](screenshots/darkmatter.png)
 
